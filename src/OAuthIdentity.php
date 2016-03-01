@@ -1,7 +1,7 @@
 <?php namespace AdamWathan\EloquentOAuth;
 
 //use Illuminate\Database\Eloquent\Model as Eloquent;
-use Jenssegers\Mongodb\Model as Eloquent;
+use Jenssegers\Mongodb\Eloquent\Model as Eloquent;
 use Config;
 
 /**
